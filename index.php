@@ -33,10 +33,7 @@ img {
  </head>
  <body>
   <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" alt="Иллюстрация" 
-   width="200" height="272" align="middle" class="round"></p>
-   
-
-<p>Name:___________Rustambek.   </p>
+   width="200" height="272" align="middle" class="round">Name:___________Rustambek.   </p>
 <hr>
 <p>Surname:________Zhanabilov.  </p>
 <hr>
