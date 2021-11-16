@@ -30,7 +30,7 @@ img {
  </head>
  <body>
   <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" alt="Иллюстрация" 
-   width="200" height="272" class="round" class="rightpic">
+   width="200" height="272" align="right" class="round" class="rightpic">
   Hfyffyf</p>
   <p>hcyfh</p> 
  </body>
