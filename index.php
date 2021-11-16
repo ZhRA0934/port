@@ -33,17 +33,13 @@ img {
  </head>
  <body>
   <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoGeLAvchsleg7l9smkL4VkvNS3Pnezms0g&usqp=CAU" alt="Иллюстрация" 
-   width="200" height="272" align="middle" class="round">Name:___________Rustambek.   </p>
-<hr>
-<p>Surname:________Zhanabilov.  </p>
-<hr>
-<p>Birthday:_______09.03.2004.  </p>
-<hr>
-<p>Class:__________Csc-20a.     </p>
-<hr>
-<p>Phone:__________+99670433439.</p>
-<hr>
-<p>Adress:_________Sokuluk,_Novopavlovka</p>
+   width="200" height="272" align="middle" class="round">
+    Name:___________Rustambek.   
+    Surname:________Zhanabilov. 
+    Birthday:_______09.03.2004.  
+    Class:__________Csc-20a.     
+    Phone:__________+99670433439.
+    Adress:_________Sokuluk,_Novopavlovka</p>
 <hr>
 <div class="container">
     <form class="modal-content animate" action="https://www.instagram.com/">
